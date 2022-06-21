@@ -1,0 +1,64 @@
+
+.card {
+    display: flex;
+    margin-bottom: 30px;
+    box-sizing: content-box;
+    width: 700px;
+   
+}
+
+.card-img {
+    width: 150px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+
+.location-maps {
+    display: flex;
+    margin-top: 20px;
+}
+
+.icon {
+    margin-right: 5px;
+    margin-top: 3px;
+    width: 7px;
+    height: 10px;
+}
+
+.location {
+    padding: 0;
+    margin:0;
+    letter-spacing: 0.17em;
+    font-size: 12px;
+}
+
+.map-link {
+    margin-left: 12px;
+    color: #918E9B;
+    font-size: 12px;
+}
+
+.title {
+    margin-top: 7px;
+    margin-bottom: 25px;
+}
+
+.date {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.description {
+    line-height: 150%;
+    font-size: 12px;
+    
+}
+
+hr {
+    border: 1px solid #F5F5F5;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 30px;
+}
